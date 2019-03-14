@@ -1,3 +1,5 @@
 Hello Git ! 
 
 how is it to be cool?
+
+Not too bad, after all! 
